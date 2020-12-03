@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		D84679BE25782355001EE935 /* chap8prob11 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = chap8prob11; sourceTree = BUILT_PRODUCTS_DIR; };
 		D84679C125782355001EE935 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		D84679C82578248B001EE935 /* power1.dat */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = power1.dat; path = ../../../Desktop/power1.dat; sourceTree = "<group>"; };
+		D84679CB257879FF001EE935 /* power1.dat */ = {isa = PBXFileReference; lastKnownFileType = text; name = power1.dat; path = "../../../Library/Developer/Xcode/DerivedData/chap8prob11-fovjmujgxhwzascvevfizxabjoci/Build/Products/Debug/power1.dat"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +58,8 @@
 		D84679C025782355001EE935 /* chap8prob11 */ = {
 			isa = PBXGroup;
 			children = (
+				D84679CB257879FF001EE935 /* power1.dat */,
 				D84679C125782355001EE935 /* main.cpp */,
-				D84679C82578248B001EE935 /* power1.dat */,
 			);
 			path = chap8prob11;
 			sourceTree = "<group>";
